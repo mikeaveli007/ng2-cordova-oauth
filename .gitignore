@@ -9,3 +9,6 @@ platform
 provider
 *.js
 *.d.ts
+/.vs
+/ng2-cordova-oauth.sln
+/ng2-cordova-oauth.njsproj
